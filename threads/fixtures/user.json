@@ -1,0 +1,22 @@
+[
+{
+    "fields": {
+        "username": "admin@admin.com",
+        "first_name": "",
+        "last_name": "",
+        "is_active": true,
+        "is_superuser": true,
+        "is_staff": true,
+        "last_login": "2017-11-04T07:53:26.603Z",
+        "subscription_end": "2017-11-04T07:51:58.918Z",
+        "groups": [],
+        "user_permissions": [],
+        "password": "pbkdf2_sha256$20000$DKsMlZrkoWyT$MWbTOuzNBN3MfscCvlMOrLNbeVChZkxiETVyLG2RZB0=",
+        "stripe_id": "",
+        "email": "admin@admin.com",
+        "date_joined": "2017-11-04T07:51:58.918Z"
+    },
+    "model": "accounts.user",
+    "pk": 2
+}
+]
