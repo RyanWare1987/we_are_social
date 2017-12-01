@@ -20,8 +20,8 @@ PAYPAL_NOTIFY_URL = 'http://f0bd7997.ngrok.io/a-very-hard-to-guess-url/'
 PAYPAL_RECEIVER_EMAIL = 'ryan.ware1987-business@gmail.com'
 
 # This needs editing to Herkou app details
-SITE_URL = 'https://we-are-social-rw.herokuapp.com'
-ALLOWED_HOSTS.append('we-are-social-rw.herokuapp.com')
+SITE_URL = 'https://we-are-social-rw2.herokuapp.com'
+ALLOWED_HOSTS.append('we-are-social-rw2.herokuapp.com')
 
 # Log DEBUG information to the console
 LOGGING = {
